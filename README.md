@@ -2,7 +2,8 @@
 # 👋 Hi, I'm Pratik
 
 ## 🚀 About Me
-B.Tech CSE student passionate about Web Development, Java, Python and AI/ML.
+B.Tech CSE student passionate about Web Development, C++ , Python and   Cloud Computing .
+I am Here To Build and rock and code 
 
 ## 💻 Tech Stack
 
