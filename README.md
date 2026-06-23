@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pratik Mishra!
+# 👋 Hi, I'm Pratik Kumar!
 
 🚀 B.Tech CSE Student | Developer | AI/ML Enthusiast
 
