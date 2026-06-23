@@ -1,44 +1,52 @@
-## Hi there 👋
-# 👋 Hi, I'm Pratik
+# 👋 Hi, I'm Pratik Mishra!
 
-## 🚀 About Me
-B.Tech CSE student passionate about Web Development, C++ , Python and   Cloud Computing .
-I am Here To Build and rock and code 
+🚀 B.Tech CSE Student | Developer | AI/ML Enthusiast
 
-## 💻 Tech Stack
+I love building projects, solving problems, and exploring new technologies.
 
-![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Python](https://img.shields.io/badge/Python-green)
-![Java](https://img.shields.io/badge/Java-red)
+---
 
-## 🔥 Projects
+## 💻 When I code, I rely on
 
-🌦️ Weather App  
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-black?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-orange?style=for-the-badge&logo=icloud)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+## 🚀 Projects
+
+🌦 Weather App  
 🔗 https://pratikmishra-debug.github.io/Weather-App/
+
+💬 WhatsApp Clone  
+🔗 Add your link here
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratikMishra-debug&show_icons=true)
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratikMishra-debug&show_icons=true&theme=radical)
 
-## 🏆 Goals
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratikMishra-debug&theme=radical)
 
-- Improve DSA
-- Build real-world projects
-- Crack top tech internships
+---
 
-<!--
-**PratikMishra-debug/PratikMishra-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Goals
 
-Here are some ideas to get you started:
+- Master DSA & Problem Solving
+- Build AI powered applications
+- Learn Cloud Technologies
+- Create impactful projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ Thanks for visiting my profile!
