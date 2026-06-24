@@ -45,7 +45,7 @@ I love building projects, solving problems, and exploring new technologies.
 - Master DSA & Problem Solving
 - Build AI powered applications
 - Learn Cloud Technologies
-- Create impactful projects
+- Create impactful projects to Help the world
 
 ---
 
