@@ -38,7 +38,7 @@
 
 I am a Computer Science & Information Technology undergraduate focused on building reliable, scalable, and user-centric software solutions.
 
-My core interests include **Software Engineering, Full Stack Development, Artificial Intelligence, and Product Engineering**.
+My core interests include **Software Engineering, Full Stack Development, Cloud Computing, and AWS**.
 
 I enjoy transforming ideas into real-world applications by combining:
 - Clean frontend experiences
@@ -54,7 +54,7 @@ I believe in engineering products that solve real problems and create measurable
 - Software Development Internships
 - SDE Opportunities
 - Full Stack Development Roles
-- AI/ML Based Projects
+- Cloud Computing Based Projects
 - Open Source Collaboration
 
 ---
@@ -153,7 +153,7 @@ Worked on understanding AI concepts, machine learning workflows, and practical i
 - Developed understanding of AI-driven solutions
 
 **Skills:**  
-`Python` `Machine Learning` `Artificial Intelligence`
+`Python` `C++` `Cloud computing`
 
 ---
 
@@ -182,7 +182,7 @@ Leading a student developer community focused on coding culture, technical growt
 | Hackathon Winner | Won 2 Hackathons |
 | Research Publication | Research paper on RAG based Drug Question Answering System |
 | Technical Leadership | Founder of MLSI-DGI Coding Community |
-| Debate Achievement | State Level Debate Winner |
+
 
 </div>
 
