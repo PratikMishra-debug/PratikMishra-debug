@@ -239,6 +239,11 @@ Leading a student developer community focused on coding culture, technical growt
 
 <img src="https://img.shields.io/badge/Last%20Updated-Today-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Updated-July%202026-success?style=for-the-badge&logo=github"/>
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/PratikMishra-debug" alt="Pratik's Github chart" />
+</p>
 
 ---
 
