@@ -238,6 +238,7 @@ Leading a student developer community focused on coding culture, technical growt
 <img src="https://raw.githubusercontent.com/PratikMishra-debug/PratikMishra-debug/output/github-contribution-grid-snake.svg"/>
 
 <img src="https://img.shields.io/badge/Last%20Updated-Today-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Updated-July%202026-success?style=for-the-badge&logo=github"/>
 
 ---
 
