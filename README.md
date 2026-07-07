@@ -237,13 +237,6 @@ Leading a student developer community focused on coding culture, technical growt
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikMishra-debug&theme=tokyo-night&hide_border=true"/>
 
 ---
-
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/PratikMishra-debug/PratikMishra-debug/output/github-contribution-grid-snake.svg"/>
-
----
-
 # 🎯 Current Focus
 
 ```yaml
