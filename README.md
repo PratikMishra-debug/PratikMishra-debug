@@ -230,6 +230,13 @@ Leading a student developer community focused on coding culture, technical growt
 
 <img src="https://github-profile-trophy.vercel.app/?username=PratikMishra-debug&theme=algolia&no-frame=true&row=1"/>
 
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/PratikMishra-debug/PratikMishra-debug/output/github-contribution-grid-snake.svg"/>
+
 ---
 
 # 📈 Contribution Activity
