@@ -407,7 +407,11 @@ Successfully completed an AICTE virtual internship, strengthening practical know
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PratikMishra-debug/PratikMishra-debug/output/github-contribution-grid-snake.svg"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PratikMishra-debug/PratikMishra-debug/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 </div>
 
 > **Note:** The snake animation works only after you configure the GitHub Action in your profile repository.
