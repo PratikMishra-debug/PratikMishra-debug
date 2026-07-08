@@ -171,3 +171,180 @@ Currently, I'm focused on becoming a strong **Software Development Engineer (SDE
 </p>
 
 ---
+# 🚀 Featured Projects
+
+---
+
+## 🏥 E-Sanjeevni — Rural Telemedicine Platform
+
+<div align="center">
+
+### 🌐 Live Demo
+
+### **https://e-sanjeevni-ten.vercel.app/**
+
+</div>
+
+A modern telemedicine platform designed to improve healthcare accessibility in rural communities by connecting patients with doctors, nearby dispensaries, and emergency healthcare services.
+
+### 🚀 Highlights
+
+- 🩺 Doctor Consultation Portal
+- 📍 Nearby Medical Store Finder
+- 🚑 Emergency Ambulance Support
+- 💬 AI-powered Healthcare Chat
+- 📱 Responsive UI
+- 🔐 Secure Authentication Ready
+- ☁️ Cloud Hosted using Vercel
+
+### 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,html,css,vercel"/>
+
+</p>
+
+| Category | Details |
+|-----------|----------|
+| Frontend | React + Vite |
+| Backend | Node.js + Express |
+| Deployment | Vercel |
+| APIs | REST APIs |
+| Styling | CSS |
+| Version Control | Git & GitHub |
+
+---
+
+## 🌊 Flood Disaster Management System
+
+> 🚧 Currently in Final Development Stage
+
+A disaster response platform developed to improve emergency management during floods by helping citizens quickly locate shelters, request assistance, and receive real-time disaster updates.
+
+### Features
+
+- 🌊 Flood Alert Dashboard
+- 📍 Nearby Safe Shelter Locator
+- 🚨 Emergency SOS
+- 📱 Responsive Design
+- 📊 Disaster Information Dashboard
+- ☁️ Ready for Cloud Deployment
+
+### Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css"/>
+
+</p>
+
+---
+
+## 📄 Drug RAG Research Project
+
+### Research Work
+
+Focused on Retrieval-Augmented Generation (RAG) for improving medical question answering by reducing hallucinations in Large Language Models.
+
+### Research Areas
+
+- Retrieval-Augmented Generation
+- Vector Embeddings
+- Medical Question Answering
+- Knowledge Retrieval
+- Prompt Engineering
+- AI Reliability Research
+
+### Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+> 📌 Research-oriented project focusing on trustworthy AI responses rather than production deployment.
+
+---
+
+## 🌦️ Weather Forecast Application
+
+A lightweight weather application providing current weather information with a responsive user interface.
+
+### Features
+
+- 🌤️ Live Weather
+- 🌡️ Temperature
+- 💨 Wind Speed
+- 💧 Humidity
+- 📱 Responsive Design
+
+### Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+## ☁️ AICTE Virtual Internship
+
+### Cloud & Technology Learning
+
+Successfully completed an AICTE virtual internship, strengthening practical knowledge of modern software development workflows and cloud-based application deployment.
+
+### Key Learning Areas
+
+- Cloud Computing Fundamentals
+- Modern Development Workflow
+- Version Control using Git
+- GitHub Collaboration
+- Project Deployment
+- Software Development Practices
+
+---
+
+# 🏆 Achievements
+
+| Achievement | Description |
+|-------------|-------------|
+| 🏆 Hackathons | Participated in multiple national-level hackathons |
+| 📄 Research | Worked on a Drug RAG Research Project |
+| 👨‍💻 Open Source | Building public GitHub projects |
+| 🌐 Full Stack | Developed and deployed complete web applications |
+| ☁️ Cloud | Successfully deployed applications on Vercel |
+| 📚 Continuous Learning | Actively preparing for Software Engineering roles |
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AICTE-Virtual%20Internship-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Infosys-Springboard-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-Learning-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software%20Development-Projects-purple?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📂 Featured Repositories
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🏥 **E-Sanjeevni** | Rural Telemedicine Platform | ✅ Live |
+| 🌊 **Flood Disaster Management** | Emergency Response Platform | 🚧 Coming Soon |
+| 📄 **Drug RAG Research** | Research Project | ✅ Completed |
+| 🌦️ **Weather App** | Weather Forecast Web App | ✅ Completed |
+
+---
