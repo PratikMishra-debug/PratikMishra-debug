@@ -351,11 +351,8 @@ Successfully completed an AICTE virtual internship, strengthening practical know
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikMishra-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikMishra-debug&layout=compact&theme=tokyonight&hide_border=true"/>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratikMishra-debug&show_icons=true&theme=tokyonight&cache_seconds=1800)
+  
 </div>
 
 ---
@@ -363,7 +360,9 @@ Successfully completed an AICTE virtual internship, strengthening practical know
 # 🔥 GitHub Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=PratikMishra-debug&theme=tokyonight&hide_border=true"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PratikMishra-debug&theme=tokyonight)
+
 
 </div>
 
@@ -374,7 +373,8 @@ Successfully completed an AICTE virtual internship, strengthening practical know
 # 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PratikMishra-debug&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=PratikMishra-debug&theme=tokyonight)
+
 
 
 
