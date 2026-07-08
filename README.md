@@ -348,3 +348,151 @@ Successfully completed an AICTE virtual internship, strengthening practical know
 | 🌦️ **Weather App** | Weather Forecast Web App | ✅ Completed |
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikMishra-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikMishra-debug&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PratikMishra-debug&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+> This is the square streak card that shows your **Current Streak**, **Longest Streak**, and contribution dates.
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PratikMishra-debug&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikMishra-debug&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/7c3aed/PratikMishra-debug" alt="GitHub Contribution Chart"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PratikMishra-debug/PratikMishra-debug/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+> **Note:** The snake animation works only after you configure the GitHub Action in your profile repository.
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Snowball_/">
+<img src="https://img.shields.io/badge/LeetCode-Snowball_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/PratikMishra-debug">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 🎯 Current Roadmap
+
+```yaml
+Learning:
+  - Data Structures & Algorithms (C++)
+  - System Design
+  - Backend Development
+  - Cloud Computing
+  - Database Design
+
+Building:
+  - Full Stack Applications
+  - Cloud-Based Projects
+  - Developer Portfolio
+  - Real-World Software Solutions
+
+Currently Working On:
+  - Flood Disaster Management System
+  - Open Source Contributions
+  - Improving Problem Solving
+  - Strong Software Engineering Fundamentals
+
+Career Goal:
+  - Software Development Engineer (SDE)
+```
+
+---
+
+# 💡 Developer Quote
+
+<div align="center">
+
+> **"First solve the problem. Then write the code."**  
+> — John Johnson
+
+</div>
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:pratikkumar182006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pratik-kumar-a3a9bb332">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/PratikMishra-debug">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:0f172a&height=120&section=footer"/>
+
+</div>
