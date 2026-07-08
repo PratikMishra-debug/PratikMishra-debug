@@ -363,8 +363,7 @@ Successfully completed an AICTE virtual internship, strengthening practical know
 # 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PratikMishra-debug&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=PratikMishra-debug&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -375,8 +374,10 @@ Successfully completed an AICTE virtual internship, strengthening practical know
 # 🏆 GitHub Trophies
 
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PratikMishra-debug&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=PratikMishra-debug&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+
 
 </div>
 
@@ -406,8 +407,7 @@ Successfully completed an AICTE virtual internship, strengthening practical know
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PratikMishra-debug/PratikMishra-debug/output/github-contribution-grid-snake.svg" />
-
+<img src="https://raw.githubusercontent.com/PratikMishra-debug/PratikMishra-debug/output/github-contribution-grid-snake.svg"/>
 </div>
 
 > **Note:** The snake animation works only after you configure the GitHub Action in your profile repository.
