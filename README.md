@@ -38,7 +38,7 @@
 
 I am a Computer Science & Information Technology undergraduate focused on building reliable, scalable, and user-centric software solutions.
 
-My core interests include **Software Engineering, Full Stack Development, Cloud Computing, and AWS**.
+My core interests include **Software Engineering, Full Stack Development, Artificial Intelligence, and Product Engineering**.
 
 I enjoy transforming ideas into real-world applications by combining:
 - Clean frontend experiences
@@ -54,7 +54,7 @@ I believe in engineering products that solve real problems and create measurable
 - Software Development Internships
 - SDE Opportunities
 - Full Stack Development Roles
-- Cloud Computing Based Projects
+- AI/ML Based Projects
 - Open Source Collaboration
 
 ---
@@ -153,7 +153,7 @@ Worked on understanding AI concepts, machine learning workflows, and practical i
 - Developed understanding of AI-driven solutions
 
 **Skills:**  
-`Python` `C++` `Cloud computing`
+`Python` `Machine Learning` `Artificial Intelligence`
 
 ---
 
@@ -182,7 +182,7 @@ Leading a student developer community focused on coding culture, technical growt
 | Hackathon Winner | Won 2 Hackathons |
 | Research Publication | Research paper on RAG based Drug Question Answering System |
 | Technical Leadership | Founder of MLSI-DGI Coding Community |
-
+| Debate Achievement | State Level Debate Winner |
 
 </div>
 
@@ -230,21 +230,6 @@ Leading a student developer community focused on coding culture, technical growt
 
 <img src="https://github-profile-trophy.vercel.app/?username=PratikMishra-debug&theme=algolia&no-frame=true&row=1"/>
 
-
----
-
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/PratikMishra-debug/PratikMishra-debug/output/github-contribution-grid-snake.svg"/>
-
-<img src="https://img.shields.io/badge/Last%20Updated-Today-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Updated-July%202026-success?style=for-the-badge&logo=github"/>
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/PratikMishra-debug" alt="Pratik's Github chart" />
-</p>
-
 ---
 
 # 📈 Contribution Activity
@@ -252,6 +237,13 @@ Leading a student developer community focused on coding culture, technical growt
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikMishra-debug&theme=tokyo-night&hide_border=true"/>
 
 ---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/PratikMishra-debug/PratikMishra-debug/output/github-contribution-grid-snake.svg"/>
+
+---
+
 # 🎯 Current Focus
 
 ```yaml
