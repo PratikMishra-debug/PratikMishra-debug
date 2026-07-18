@@ -343,7 +343,7 @@ Successfully completed an AICTE virtual internship, strengthening practical know
 | Project | Description | Status |
 |---------|-------------|--------|
 | 🏥 **E-Sanjeevni** | Rural Telemedicine Platform | ✅ Live |
-| 🌊 **Flood Disaster Management** | Emergency Response Platform | 🚧 Coming Soon |
+| 🌊 **Flood Disaster Management** | Emergency Response Platform |  ✅ Live |
 | 📄 **Drug RAG Research** | Research Project | ✅ Completed |
 | 🌦️ **Weather App** | Weather Forecast Web App | ✅ Completed |
 
