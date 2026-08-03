@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:0ea5e9&height=220&section=header&text=Pratik%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Cloud+Engineer+in+Progress;Cloud+Computing+Enthusiast;Linux+%7C+AWS+%7C+Docker+%7C+Networking;Learning+Cloud+Infrastructure;Building+Cloud+Engineering+Skills"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Cloud+Computing+Enthusiast;Cloud+Engineering+Learner;AWS+%7C+Linux+%7C+Docker+%7C+Networking;Cloud+Infrastructure+%26+Automation;Building+Practical+Cloud+Skills"/>
 
 <br/>
 
@@ -40,15 +40,15 @@
 
 ---
 
-# ☁️ About Me
+# 👋 About Me
 
 I'm **Pratik Kumar**, a Computer Science & Information Technology undergraduate focused on **Cloud Computing and Cloud Engineering**.
 
-My current learning path is centered around understanding how modern cloud infrastructure works — from **Linux systems and networking** to **AWS, containers, automation, infrastructure as code, and cloud deployment**.
+I'm interested in understanding how modern applications and infrastructure operate in the cloud — from **Linux systems and computer networking** to **AWS infrastructure, containers, automation, deployment, and monitoring**.
 
-I'm building my foundation step-by-step with a strong focus on practical hands-on learning, infrastructure, troubleshooting, automation, and scalable cloud environments.
+I'm currently building my Cloud Engineering foundation through hands-on learning and practical projects while strengthening my core Computer Science knowledge.
 
-### 🎯 Current Direction
+### 🎯 Primary Focus
 
 > **Cloud Engineering → Infrastructure → Automation → DevOps → Scalable Cloud Systems**
 
@@ -56,33 +56,33 @@ I'm building my foundation step-by-step with a strong focus on practical hands-o
 
 # ☁️ Cloud Engineering Focus
 
-I'm currently building knowledge across:
+My current technical focus includes:
 
-* ☁️ Cloud Computing Fundamentals
-* 🐧 Linux Administration
+* ☁️ Cloud Computing & AWS
+* 🐧 Linux & System Administration
 * 🌐 Computer Networking
 * 🔐 Cloud Security & IAM
-* 🖥️ AWS Infrastructure
+* 🖥️ Cloud Infrastructure
 * 🐳 Docker & Containerization
-* ⚙️ Bash & Cloud Automation
+* ⚙️ Bash & Python Automation
 * 🏗️ Infrastructure as Code
-* 🔄 CI/CD Pipelines
-* ☸️ Kubernetes
+* 🔄 CI/CD & Deployment Automation
+* ☸️ Kubernetes & Container Orchestration
 * 📊 Monitoring & Observability
 * 🗄️ Cloud Databases
 * 🔧 Troubleshooting & System Administration
 
 ---
 
-# 🛠️ Cloud Engineering Tech Stack
+# 🛠️ Technical Skills
 
-## ☁️ Cloud
+## ☁️ Cloud Computing
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
-**AWS**
+### AWS
 
 * EC2
 * S3
@@ -95,32 +95,33 @@ I'm currently building knowledge across:
 * Auto Scaling
 * Lambda
 
-> Currently building practical knowledge of AWS cloud infrastructure and services.
+Focused on understanding AWS services, cloud infrastructure, networking, security, deployment, and resource management.
 
 ---
 
-## 🐧 Linux & Systems
+## 🐧 Linux & System Administration
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,bash"/>
 </p>
 
-* Linux fundamentals
-* File systems
-* Users & permissions
-* Processes & services
+* Linux Fundamentals
+* File Systems
+* Users & Permissions
+* Processes & Services
 * SSH
-* Package management
-* Networking commands
-* Shell scripting
-* System monitoring
-* Server administration
+* Package Management
+* System Monitoring
+* Networking Commands
+* Shell Scripting
+* Server Administration
+* Command-Line Tools
 
 ---
 
 ## 🌐 Networking
 
-Core networking concepts I'm studying:
+Core networking concepts:
 
 * TCP/IP
 * OSI Model
@@ -131,10 +132,11 @@ Core networking concepts I'm studying:
 * HTTP / HTTPS
 * Ports & Protocols
 * Routing
-* Firewalls
 * NAT
+* Firewalls
 * Load Balancing
 * VPC Networking
+* Security Groups
 
 ---
 
@@ -152,6 +154,7 @@ Core networking concepts I'm studying:
 * Docker Compose
 * CI/CD Fundamentals
 * GitHub Actions
+* Automated Deployment Concepts
 
 ---
 
@@ -161,13 +164,13 @@ Core networking concepts I'm studying:
 <img src="https://skillicons.dev/icons?i=terraform"/>
 </p>
 
-Currently building toward:
+Exploring Infrastructure as Code and automated infrastructure provisioning using:
 
 * Terraform
-* Infrastructure as Code
-* Automated Infrastructure Provisioning
-* Cloud Resource Management
-* Reproducible Infrastructure
+* Cloud Resource Provisioning
+* Infrastructure Automation
+* Version-Controlled Infrastructure
+* Reproducible Cloud Environments
 
 ---
 
@@ -177,7 +180,7 @@ Currently building toward:
 <img src="https://skillicons.dev/icons?i=kubernetes"/>
 </p>
 
-Learning:
+Building knowledge around:
 
 * Kubernetes Fundamentals
 * Pods
@@ -192,21 +195,20 @@ Learning:
 
 ## 📊 Monitoring & Observability
 
-Building knowledge around:
+Interested in infrastructure and application observability using:
 
-* CloudWatch
+* AWS CloudWatch
 * Metrics
 * Logs
-* Monitoring
 * Alerts
-* Application Health
 * Infrastructure Monitoring
+* Application Health Monitoring
 * Prometheus
 * Grafana
 
 ---
 
-## 💻 Programming & Automation
+# 💻 Programming & Automation
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,bash"/>
@@ -215,158 +217,190 @@ Building knowledge around:
 ### Languages
 
 * Python
-* Bash
 * C++
+* Bash
+* JavaScript
+* HTML
+* CSS
 
-### Focus
+### Programming Focus
 
 * Automation Scripts
 * Cloud Automation
 * System Administration Scripts
 * API Interaction
 * Problem Solving
+* Data Structures & Algorithms
 * Scripting for Infrastructure
+
+> **HTML, CSS and JavaScript are part of my existing development foundation, while my primary career direction is Cloud Engineering.**
 
 ---
 
-## 🛠️ Tools
+# 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash,docker"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+</p>
+
+* MySQL
+* PostgreSQL
+* Relational Database Fundamentals
+* Database Management
+* Cloud Database Concepts
+
+---
+
+# 🛠️ Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash,linux,docker"/>
 </p>
 
 * Git
 * GitHub
-* VS Code
-* Bash
 * Linux CLI
+* Bash
+* VS Code
 * Docker
 * Postman
 * SSH
+* GitHub Actions
 
 ---
 
-# 📈 Cloud Engineering Learning Journey
+# 🚀 Cloud Engineering Projects
 
-| Area              | Current Focus |
-| ----------------- | ------------- |
-| 🐧 Linux          | Learning      |
-| 🌐 Networking     | Learning      |
-| ☁️ AWS            | Learning      |
-| 🔐 IAM & Security | Learning      |
-| 🐳 Docker         | Learning      |
-| ⚙️ Bash           | Learning      |
-| 🏗️ Terraform     | Next Focus    |
-| 🔄 CI/CD          | Next Focus    |
-| ☸️ Kubernetes     | Future Focus  |
-| 📊 Monitoring     | Future Focus  |
+## 🏥 E-Sanjeevni — Telemedicine Platform
 
----
+A healthcare platform designed to improve access to medical services by connecting patients with healthcare resources.
 
-# 🚀 Cloud Engineering Roadmap
+### Key Features
 
-```yaml
-Foundation:
-  - Linux
-  - Computer Networking
-  - Git & GitHub
-  - Bash
-  - Python
+* Doctor Consultation
+* Nearby Medical Store Finder
+* Emergency Healthcare Support
+* Healthcare Information
+* Responsive Interface
+* REST API Integration
+* Cloud Deployment
 
-Cloud:
-  - AWS Fundamentals
-  - IAM
-  - EC2
-  - S3
-  - VPC
-  - RDS
-  - Route 53
-  - CloudWatch
-  - Load Balancing
-  - Auto Scaling
+### Technology
 
-Containers:
-  - Docker
-  - Dockerfiles
-  - Docker Compose
-  - Container Networking
+* React
+* Node.js
+* Express
+* REST APIs
+* Vercel
+* Git & GitHub
 
-Infrastructure:
-  - Terraform
-  - Infrastructure as Code
-  - Cloud Infrastructure Automation
-
-DevOps:
-  - CI/CD
-  - GitHub Actions
-  - Automated Deployments
-
-Orchestration:
-  - Kubernetes
-  - Container Orchestration
-
-Observability:
-  - Monitoring
-  - Logging
-  - Prometheus
-  - Grafana
-
-Career Goal:
-  - Cloud Engineer
-  - Cloud Infrastructure Engineer
-  - DevOps Engineer
-```
+> Existing software project demonstrating application development and deployment fundamentals.
 
 ---
 
-# ☁️ Cloud Engineering Projects
+## 🌊 HydraShield — Flood Disaster Management System
 
-## 🖥️ AWS Infrastructure Projects
+A disaster response platform focused on improving emergency coordination during flood situations.
 
-### Planned / Building
+### Key Features
 
-Hands-on projects focused on deploying and managing cloud infrastructure using AWS.
+* Flood Alert Dashboard
+* Emergency SOS
+* Safe Shelter Locator
+* Disaster Information
+* Emergency Assistance
+* Responsive Interface
 
-Areas include:
+### Technology
 
-* EC2 Infrastructure
-* S3 Storage
-* IAM Policies
-* VPC Architecture
-* Security Groups
-* Cloud Monitoring
-* Load Balancing
-* Auto Scaling
-* Cloud-Based Deployments
+* React
+* Node.js
+* JavaScript
+* REST APIs
+* Git & GitHub
 
----
+### Cloud Engineering Direction
 
-## 🐳 Containerized Applications
+The project provides a foundation for exploring:
 
-Building practical experience with:
-
-* Docker
-* Container Images
-* Dockerfiles
-* Container Networking
-* Docker Compose
-* Application Containerization
-
-The goal is to understand how applications are packaged, deployed, and managed inside cloud environments.
+* Cloud Deployment
+* Scalable Infrastructure
+* Database Services
+* Monitoring
+* Disaster-Resilient Architecture
 
 ---
 
-## 🏗️ Infrastructure as Code
+## 📄 Drug RAG Research Project
 
-Learning to provision cloud infrastructure using **Terraform**.
+A research-oriented project exploring **Retrieval-Augmented Generation (RAG)** for improving the reliability of medical question answering.
 
-Focus areas:
+### Research Areas
 
-* AWS Resource Provisioning
-* Infrastructure Automation
-* Reusable Configurations
-* Infrastructure Version Control
-* Automated Cloud Environments
+* Retrieval-Augmented Generation
+* Vector Embeddings
+* Medical Question Answering
+* Knowledge Retrieval
+* Prompt Engineering
+* AI Reliability
+
+### Technology
+
+* Python
+* LangChain
+* ChromaDB
+* Sentence Transformers
+* LLMs
+
+> Research project focused on improving the reliability and grounding of AI-generated responses.
+
+---
+
+## 🌦️ Weather Application
+
+A lightweight weather application built to retrieve and display weather information through an external API.
+
+### Features
+
+* Live Weather Information
+* Temperature
+* Humidity
+* Wind Speed
+* Responsive Interface
+* API Integration
+
+### Technology
+
+* HTML
+* CSS
+* JavaScript
+* REST APIs
+
+---
+
+# ☁️ Cloud Learning Direction
+
+My Cloud Engineering journey is centered around building strong fundamentals before moving toward advanced infrastructure.
+
+### Core Foundation
+
+**Linux → Networking → Git → Bash → Python**
+
+### Cloud Infrastructure
+
+**AWS → IAM → EC2 → S3 → VPC → RDS → CloudWatch**
+
+### Infrastructure & Containers
+
+**Docker → Terraform → Infrastructure as Code**
+
+### Automation
+
+**CI/CD → GitHub Actions → Automated Deployments**
+
+### Advanced Cloud
+
+**Kubernetes → Monitoring → Observability → Cloud Security**
 
 ---
 
@@ -381,8 +415,8 @@ Completed an AICTE virtual internship with exposure to modern technology workflo
 * Cloud Computing Fundamentals
 * Cloud Technology
 * Git & GitHub
-* Development Workflows
 * Deployment Concepts
+* Development Workflows
 * Technology Fundamentals
 
 ---
@@ -391,30 +425,15 @@ Completed an AICTE virtual internship with exposure to modern technology workflo
 
 | Achievement            | Description                                               |
 | ---------------------- | --------------------------------------------------------- |
-| ☁️ Cloud Learning      | Building focused Cloud Engineering skills                 |
+| ☁️ Cloud Computing     | Building focused Cloud Engineering skills                 |
 | 🐧 Linux               | Developing Linux & system administration fundamentals     |
 | 🌐 Networking          | Studying networking fundamentals for cloud infrastructure |
 | 🏗️ Infrastructure     | Learning cloud infrastructure and automation              |
 | 🐳 Containers          | Building Docker & containerization knowledge              |
 | 💻 Programming         | Using Python & Bash for automation                        |
 | 🏆 Hackathons          | Participated in multiple national-level hackathons        |
-| 📚 Continuous Learning | Consistently developing Cloud Engineering fundamentals    |
-
----
-
-# 📜 Certifications & Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AICTE-Virtual%20Internship-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</div>
+| 📄 Research            | Worked on a Drug RAG Research Project                     |
+| 📚 Continuous Learning | Consistently strengthening Computer Science fundamentals  |
 
 ---
 
@@ -476,8 +495,6 @@ Completed an AICTE virtual internship with exposure to modern technology workflo
 
 </div>
 
-> The snake animation requires the GitHub Actions workflow to be configured in the profile repository.
-
 ---
 
 # 💻 Coding & Professional Profiles
@@ -496,41 +513,41 @@ Completed an AICTE virtual internship with exposure to modern technology workflo
 
 ---
 
-# 🎯 Current Learning Path
+# 🎯 Career Direction
 
 ```text
-                    CLOUD ENGINEERING
-                           │
-            ┌──────────────┼──────────────┐
-            │              │              │
-          Linux        Networking        Git
-            │              │              │
-            └──────────────┼──────────────┘
-                           │
-                          AWS
-                           │
-             ┌─────────────┼─────────────┐
-             │             │             │
-            IAM           EC2           VPC
-             │             │             │
-             └─────────────┼─────────────┘
-                           │
-                         Docker
-                           │
-                       Terraform
-                           │
-                         CI/CD
-                           │
-                      Kubernetes
-                           │
-                   Monitoring & Logs
-                           │
-                    CLOUD ENGINEER
+                         CLOUD ENGINEERING
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+            Linux           Networking           Git
+              │                 │                 │
+              └─────────────────┼─────────────────┘
+                                │
+                               AWS
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+             IAM               EC2               VPC
+              │                 │                 │
+              └─────────────────┼─────────────────┘
+                                │
+                             Docker
+                                │
+                           Terraform
+                                │
+                              CI/CD
+                                │
+                           Kubernetes
+                                │
+                    Monitoring & Security
+                                │
+                       CLOUD ENGINEER
 ```
 
 ---
 
-# 💡 Philosophy
+# 💡 Developer Philosophy
 
 <div align="center">
 
@@ -567,4 +584,5 @@ Completed an AICTE virtual internship with exposure to modern technology workflo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:0f172a&height=120&section=footer"/>
 
 </div>
+
 
