@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:0ea5e9&height=220&section=header&text=Pratik%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Cloud+Computing+Enthusiast;Cloud+Engineering+Learner;AWS+%7C+Linux+%7C+Docker+%7C+Networking;Cloud+Infrastructure+%26+Automation;Building+Practical+Cloud+Skills"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Aspiring+Business+Analyst;Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI;Business+Analysis+%26+Data+Analytics;Turning+Data+Into+Business+Insights"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-CSIT-2563EB?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/3rd%20Year-Engineering-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-Engineering-0284C7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Business-Analytics-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-Analytics-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <br><br>
 
@@ -42,305 +42,350 @@
 
 # 👋 About Me
 
-I'm **Pratik Kumar**, a Computer Science & Information Technology undergraduate focused on **Cloud Computing and Cloud Engineering**.
+I'm **Pratik Kumar**, a Computer Science & Information Technology undergraduate with a strong interest in **Business Analysis, Data Analytics and technology-driven problem solving**.
 
-I'm interested in understanding how modern applications and infrastructure operate in the cloud — from **Linux systems and computer networking** to **AWS infrastructure, containers, automation, deployment, and monitoring**.
+I enjoy understanding business problems, working with data, identifying patterns and translating analysis into practical recommendations.
 
-I'm currently building my Cloud Engineering foundation through hands-on learning and practical projects while strengthening my core Computer Science knowledge.
+I'm currently building my analytical skill set through **SQL, Excel, Power BI, Python and Business Analysis methodologies**, while strengthening my core Computer Science fundamentals.
 
 ### 🎯 Primary Focus
 
-> **Cloud Engineering → Infrastructure → Automation → DevOps → Scalable Cloud Systems**
+> **Business Analysis → Data Analytics → Business Intelligence → Technology & Consulting Roles**
 
 ---
 
-# ☁️ Cloud Engineering Focus
+# 📊 Analytics & Business Analysis Focus
 
-My current technical focus includes:
+My current focus includes:
 
-* ☁️ Cloud Computing & AWS
-* 🐧 Linux & System Administration
-* 🌐 Computer Networking
-* 🔐 Cloud Security & IAM
-* 🖥️ Cloud Infrastructure
-* 🐳 Docker & Containerization
-* ⚙️ Bash & Python Automation
-* 🏗️ Infrastructure as Code
-* 🔄 CI/CD & Deployment Automation
-* ☸️ Kubernetes & Container Orchestration
-* 📊 Monitoring & Observability
-* 🗄️ Cloud Databases
-* 🔧 Troubleshooting & System Administration
+* 📊 Data Analysis & Business Analytics
+* 🗄️ SQL & Relational Databases
+* 📈 Power BI & Data Visualization
+* 📑 Microsoft Excel
+* 🧩 Business Requirements Analysis
+* 🔄 AS-IS / TO-BE Process Analysis
+* 📝 User Stories & Acceptance Criteria
+* 📋 Functional & Non-Functional Requirements
+* 🔗 Jira & Confluence
+* 🔷 BPMN & Process Modelling
+* 🧠 Business Case Analysis
+* 💡 Data-Driven Decision Making
+* 📌 KPI Analysis & Reporting
+* 🗣️ Stakeholder Communication
 
 ---
 
 # 🛠️ Technical Skills
 
-## ☁️ Cloud Computing
+## 🗄️ SQL & Data Analysis
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 </p>
 
-### AWS
-
-* EC2
-* S3
-* IAM
-* VPC
-* RDS
-* Route 53
-* CloudWatch
-* Load Balancing
-* Auto Scaling
-* Lambda
-
-Focused on understanding AWS services, cloud infrastructure, networking, security, deployment, and resource management.
+* SQL
+* MySQL
+* PostgreSQL
+* SELECT / WHERE
+* JOINs
+* GROUP BY / HAVING
+* Subqueries
+* CTEs
+* CASE Statements
+* Window Functions
+* Aggregations
+* Data Cleaning
+* Data Validation
+* Exploratory Data Analysis
+* Business Query Analysis
 
 ---
 
-## 🐧 Linux & System Administration
+## 📊 Microsoft Excel
+
+* Data Cleaning
+* Pivot Tables
+* XLOOKUP / VLOOKUP
+* INDEX-MATCH
+* SUMIFS / COUNTIFS
+* Conditional Formatting
+* Data Validation
+* Basic Dashboarding
+* KPI Tracking
+* Business Reporting
+
+---
+
+## 📈 Power BI
+
+* Data Import & Transformation
+* Power Query
+* Data Modelling
+* Relationships
+* DAX Fundamentals
+* Measures
+* KPIs
+* Slicers & Filters
+* Interactive Dashboards
+* Business Reporting
+* Data Storytelling
+
+---
+
+## 🧩 Business Analysis
+
+* Business Requirements
+* Functional Requirements
+* Non-Functional Requirements
+* Requirement Gathering
+* User Stories
+* Acceptance Criteria
+* Business Rules
+* Stakeholder Identification
+* AS-IS Process Analysis
+* TO-BE Process Design
+* Process Improvement
+* Gap Analysis
+* Assumptions & Constraints
+* Risks & Dependencies
+* Success Metrics
+
+---
+
+## 📋 BA Tools & Process Modelling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
 </p>
 
-* Linux Fundamentals
-* File Systems
-* Users & Permissions
-* Processes & Services
-* SSH
-* Package Management
-* System Monitoring
-* Networking Commands
-* Shell Scripting
-* Server Administration
-* Command-Line Tools
+* Jira
+* Confluence
+* Microsoft Visio
+* BPMN
+* Process Flowcharts
+* Requirement Documentation
+* User Story Documentation
+* Acceptance Criteria
 
 ---
 
-## 🌐 Networking
-
-Core networking concepts:
-
-* TCP/IP
-* OSI Model
-* IPv4 / IPv6
-* Subnetting
-* DNS
-* DHCP
-* HTTP / HTTPS
-* Ports & Protocols
-* Routing
-* NAT
-* Firewalls
-* Load Balancing
-* VPC Networking
-* Security Groups
-
----
-
-## 🐳 Containers & DevOps
+# 🐍 Python & Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,githubactions"/>
-</p>
-
-* Docker
-* Containerization
-* Docker Images
-* Dockerfiles
-* Container Networking
-* Docker Compose
-* CI/CD Fundamentals
-* GitHub Actions
-* Automated Deployment Concepts
-
----
-
-## 🏗️ Infrastructure as Code
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=terraform"/>
-</p>
-
-Exploring Infrastructure as Code and automated infrastructure provisioning using:
-
-* Terraform
-* Cloud Resource Provisioning
-* Infrastructure Automation
-* Version-Controlled Infrastructure
-* Reproducible Cloud Environments
-
----
-
-## ☸️ Kubernetes
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-</p>
-
-Building knowledge around:
-
-* Kubernetes Fundamentals
-* Pods
-* Deployments
-* Services
-* ConfigMaps
-* Secrets
-* Container Orchestration
-* Kubernetes Networking
-
----
-
-## 📊 Monitoring & Observability
-
-Interested in infrastructure and application observability using:
-
-* AWS CloudWatch
-* Metrics
-* Logs
-* Alerts
-* Infrastructure Monitoring
-* Application Health Monitoring
-* Prometheus
-* Grafana
-
----
-
-# 💻 Programming & Automation
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,bash"/>
+<img src="https://skillicons.dev/icons?i=python,cpp"/>
 </p>
 
 ### Languages
 
 * Python
 * C++
-* Bash
 * JavaScript
 * HTML
 * CSS
 
 ### Programming Focus
 
-* Automation Scripts
-* Cloud Automation
-* System Administration Scripts
-* API Interaction
+* Data Analysis
+* Automation
 * Problem Solving
 * Data Structures & Algorithms
-* Scripting for Infrastructure
-
-> **HTML, CSS and JavaScript are part of my existing development foundation, while my primary career direction is Cloud Engineering.**
+* Basic Scripting
+* API Interaction
 
 ---
 
-# 🗄️ Databases
+# 🗃️ Database Knowledge
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
+* Relational Database Concepts
+* ER Modelling
+* Normalization
+* Functional Dependencies
+* Transactions
+* ACID Properties
+* Indexing
+* SQL Query Optimization
+* Database Management
+
+---
+
+# 🚀 Featured Analytics & Business Analysis Projects
+
+## 🏦 Loan Origination — Business Analysis Case Study
+
+A self-directed Business Analysis case study focused on redesigning a loan origination process.
+
+### Business Analysis Work
+
+* AS-IS Process Analysis
+* TO-BE Process Design
+* Stakeholder Identification
+* Business Requirements
+* Functional Requirements
+* Non-Functional Requirements
+* User Stories
+* Acceptance Criteria
+* Business Rules
+* BPMN Process Modelling
+* Risks & Assumptions
+* Success Metrics
+
+### Tools
+
+* Jira
+* Confluence
+* Microsoft Visio
+* BPMN
+* Excel
+
+> **Project Type:** Self-directed portfolio case study using a simulated business scenario.
+
+---
+
+## 💳 Payment Failure Analysis — SQL Analytics
+
+A self-directed data analytics project focused on understanding payment failures and evaluating a proposed retry strategy.
+
+### Analysis
+
+* Transaction Data Analysis
+* Failure Code Classification
+* Retry Behaviour Analysis
+* Failure Pattern Identification
+* CTEs
+* Window Functions
+* Aggregations
+* Business KPI Analysis
+* Recommendation Development
+
+### Tools
 
 * MySQL
-* PostgreSQL
-* Relational Database Fundamentals
-* Database Management
-* Cloud Database Concepts
+* SQL
+* Excel
+
+### Key Analytical Areas
+
+* Failure distribution
+* Retry frequency
+* Failure-code contribution
+* Customer/payment patterns
+* Proposed retry strategy
+* Estimated operational impact
+
+> **Project Type:** Self-directed analytics case study using simulated transaction data. Numerical findings represent analysis of the simulated dataset and should not be interpreted as production results.
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🏢 Branch Turnaround — Power BI Dashboard
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash,linux,docker"/>
-</p>
+A self-directed Business Intelligence case study focused on analysing branch transaction operations and identifying opportunities for digital migration.
 
-* Git
-* GitHub
-* Linux CLI
-* Bash
-* VS Code
-* Docker
-* Postman
-* SSH
-* GitHub Actions
+### Analysis
 
----
+* Branch Performance Analysis
+* Transaction Type Analysis
+* Wait-Time Analysis
+* KPI Development
+* DAX Measures
+* Data Modelling
+* Interactive Dashboard
+* Business Insights
+* Operational Recommendations
 
-# 🚀 Cloud Engineering Projects
+### Tools
 
-## 🏥 E-Sanjeevni — Telemedicine Platform
+* Power BI
+* DAX
+* Excel
 
-A healthcare platform designed to improve access to medical services by connecting patients with healthcare resources.
+### Key Analytical Areas
 
-### Key Features
+* Counter wait time
+* Transaction volume
+* Branch comparison
+* Transaction categories
+* Digital migration opportunities
+* Operational efficiency
 
-* Doctor Consultation
-* Nearby Medical Store Finder
-* Emergency Healthcare Support
-* Healthcare Information
-* Responsive Interface
-* REST API Integration
-* Cloud Deployment
-
-### Technology
-
-* React
-* Node.js
-* Express
-* REST APIs
-* Vercel
-* Git & GitHub
-
-> Existing software project demonstrating application development and deployment fundamentals.
+> **Project Type:** Self-directed BI case study using simulated branch-operation data.
 
 ---
 
-## 🌊 HydraShield — Flood Disaster Management System
+# 📌 Project Philosophy
 
-A disaster response platform focused on improving emergency coordination during flood situations.
+My projects are designed around a simple analytical workflow:
 
-### Key Features
+```text
+                 BUSINESS PROBLEM
+                        │
+                        ▼
+               REQUIREMENT ANALYSIS
+                        │
+                        ▼
+                  DATA COLLECTION
+                        │
+                        ▼
+                 DATA CLEANING
+                        │
+                        ▼
+                     ANALYSIS
+                        │
+                        ▼
+                    INSIGHTS
+                        │
+                        ▼
+                 RECOMMENDATIONS
+                        │
+                        ▼
+                 BUSINESS IMPACT
+```
 
-* Flood Alert Dashboard
-* Emergency SOS
-* Safe Shelter Locator
-* Disaster Information
-* Emergency Assistance
-* Responsive Interface
-
-### Technology
-
-* React
-* Node.js
-* JavaScript
-* REST APIs
-* Git & GitHub
-
-### Cloud Engineering Direction
-
-The project provides a foundation for exploring:
-
-* Cloud Deployment
-* Scalable Infrastructure
-* Database Services
-* Monitoring
-* Disaster-Resilient Architecture
+> **The objective is not just to create dashboards or write SQL queries, but to understand the problem behind the data and communicate actionable insights.**
 
 ---
 
-## 📄 Drug RAG Research Project
+# 🧠 Core Computer Science Foundation
 
-A research-oriented project exploring **Retrieval-Augmented Generation (RAG)** for improving the reliability of medical question answering.
+Alongside my analytics-focused preparation, I am strengthening my core Computer Science knowledge in:
+
+* Data Structures & Algorithms
+* DBMS
+* Operating Systems
+* Computer Networks
+* Computer Organization
+* C / C++
+* Object-Oriented Programming
+* Software Engineering
+* System Design Fundamentals
+
+---
+
+# 🏆 Achievements
+
+| Area | Achievement |
+|---|---|
+| 🏆 Hackathons | Participated in and won national-level hackathons |
+| 📊 Analytics | Built SQL and Power BI portfolio projects |
+| 🧩 Business Analysis | Created a complete loan-origination BA case study |
+| 📄 Research | Worked on a Drug RAG research project |
+| 💻 Programming | Strengthening problem-solving and DSA skills |
+| 📚 Academics | Pursuing B.Tech in Computer Science & Information Technology |
+
+---
+
+# 🔬 Research Project
+
+## Drug RAG — Retrieval-Augmented Generation
+
+A research-oriented project exploring **Retrieval-Augmented Generation (RAG)** for improving the reliability and grounding of medical question answering.
 
 ### Research Areas
 
 * Retrieval-Augmented Generation
 * Vector Embeddings
-* Medical Question Answering
 * Knowledge Retrieval
+* Semantic Search
 * Prompt Engineering
 * AI Reliability
 
@@ -352,22 +397,43 @@ A research-oriented project exploring **Retrieval-Augmented Generation (RAG)** f
 * Sentence Transformers
 * LLMs
 
-> Research project focused on improving the reliability and grounding of AI-generated responses.
+> Research project demonstrating an interest in applying technology to real-world information and decision-support problems.
+
+---
+
+# 🌐 Additional Projects
+
+## 🏥 E-Sanjeevni — Healthcare Platform
+
+A healthcare-focused software project designed to connect users with healthcare resources.
+
+### Technology
+
+* React
+* Node.js
+* Express
+* REST APIs
+* Git & GitHub
+
+---
+
+## 🌊 HydraShield — Flood Disaster Management System
+
+A disaster-response platform focused on emergency coordination and access to relevant disaster information.
+
+### Technology
+
+* React
+* Node.js
+* JavaScript
+* REST APIs
+* Git & GitHub
 
 ---
 
 ## 🌦️ Weather Application
 
-A lightweight weather application built to retrieve and display weather information through an external API.
-
-### Features
-
-* Live Weather Information
-* Temperature
-* Humidity
-* Wind Speed
-* Responsive Interface
-* API Integration
+A lightweight application using an external API to retrieve and display weather information.
 
 ### Technology
 
@@ -378,62 +444,72 @@ A lightweight weather application built to retrieve and display weather informat
 
 ---
 
-# ☁️ Cloud Learning Direction
+# 💼 Experience & Learning
 
-My Cloud Engineering journey is centered around building strong fundamentals before moving toward advanced infrastructure.
+## 🎓 Academic & Self-Directed Learning
 
-### Core Foundation
+Currently building practical skills through:
 
-**Linux → Networking → Git → Bash → Python**
+* Business Analysis case studies
+* SQL analytics projects
+* Power BI dashboards
+* Excel-based analysis
+* Data-driven problem solving
+* Business requirements documentation
+* Process modelling
+* Continuous Computer Science learning
 
-### Cloud Infrastructure
-
-**AWS → IAM → EC2 → S3 → VPC → RDS → CloudWatch**
-
-### Infrastructure & Containers
-
-**Docker → Terraform → Infrastructure as Code**
-
-### Automation
-
-**CI/CD → GitHub Actions → Automated Deployments**
-
-### Advanced Cloud
-
-**Kubernetes → Monitoring → Observability → Cloud Security**
+> **I am currently seeking my first professional internship opportunity in Business Analysis, Data Analytics, Business Intelligence or related analyst roles.**
 
 ---
 
-# 💼 Experience
+# 🎯 Career Direction
 
-## ☁️ AICTE Virtual Internship
-
-Completed an AICTE virtual internship with exposure to modern technology workflows and cloud computing concepts.
-
-### Key Areas
-
-* Cloud Computing Fundamentals
-* Cloud Technology
-* Git & GitHub
-* Deployment Concepts
-* Development Workflows
-* Technology Fundamentals
+```text
+                  ANALYTICS & BUSINESS
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+        SQL            Excel         Power BI
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                BUSINESS ANALYSIS
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+     Requirements      Process       Data
+      Analysis        Analysis      Analysis
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                 BUSINESS INSIGHTS
+                         │
+                         ▼
+               RECOMMENDATIONS
+                         │
+                         ▼
+              BUSINESS DECISIONS
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+       Business       Data / BI      Technology
+       Analyst         Analyst         Analyst
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                ANALYTICS / CONSULTING
+```
 
 ---
 
-# 🏆 Achievements
+# 💡 My Approach
 
-| Achievement            | Description                                               |
-| ---------------------- | --------------------------------------------------------- |
-| ☁️ Cloud Computing     | Building focused Cloud Engineering skills                 |
-| 🐧 Linux               | Developing Linux & system administration fundamentals     |
-| 🌐 Networking          | Studying networking fundamentals for cloud infrastructure |
-| 🏗️ Infrastructure     | Learning cloud infrastructure and automation              |
-| 🐳 Containers          | Building Docker & containerization knowledge              |
-| 💻 Programming         | Using Python & Bash for automation                        |
-| 🏆 Hackathons          | Participated in multiple national-level hackathons        |
-| 📄 Research            | Worked on a Drug RAG Research Project                     |
-| 📚 Continuous Learning | Consistently strengthening Computer Science fundamentals  |
+<div align="center">
+
+> **"Understand the problem. Analyse the data. Communicate the insight."**
+
+</div>
 
 ---
 
@@ -441,7 +517,7 @@ Completed an AICTE virtual internship with exposure to modern technology workflo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratikMishra-debug\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratikMishra-debug&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 </div>
 
@@ -451,7 +527,7 @@ Completed an AICTE virtual internship with exposure to modern technology workflo
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PratikMishra-debug\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=PratikMishra-debug&theme=tokyonight)
 
 </div>
 
@@ -461,7 +537,7 @@ Completed an AICTE virtual internship with exposure to modern technology workflo
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=PratikMishra-debug\&theme=tokyonight)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=PratikMishra-debug&theme=tokyonight)
 
 </div>
 
@@ -472,16 +548,6 @@ Completed an AICTE virtual internship with exposure to modern technology workflo
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikMishra-debug&theme=tokyo-night&hide_border=true&radius=16"/>
-
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/0ea5e9/PratikMishra-debug" alt="GitHub Contribution Chart"/>
 
 </div>
 
@@ -513,50 +579,6 @@ Completed an AICTE virtual internship with exposure to modern technology workflo
 
 ---
 
-# 🎯 Career Direction
-
-```text
-                         CLOUD ENGINEERING
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-            Linux           Networking           Git
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                │
-                               AWS
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-             IAM               EC2               VPC
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                │
-                             Docker
-                                │
-                           Terraform
-                                │
-                              CI/CD
-                                │
-                           Kubernetes
-                                │
-                    Monitoring & Security
-                                │
-                       CLOUD ENGINEER
-```
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-> **"Automate everything that should be automated."**
-
-</div>
-
----
-
 # 📬 Let's Connect
 
 <div align="center">
@@ -579,10 +601,9 @@ Completed an AICTE virtual internship with exposure to modern technology workflo
 
 <div align="center">
 
-### ☁️ Building. Automating. Learning Cloud.
+### 📊 Analyse. Understand. Recommend.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:0f172a&height=120&section=footer"/>
 
 </div>
-
 
